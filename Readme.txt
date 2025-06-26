@@ -8,7 +8,9 @@ It features powerful **visual analytics**, **machine learning models**, and a **
 ---
 
 ## 📁 Dataset
-
+Data.txt contain dataset in .txt format
+Data.csv contain dataset in .scv format
+You can use any to do this porject(text is raw one and scv is clean data one)
 - **Name**: [Individual household electric power consumption](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption)
 - **Source**: UCI Machine Learning Repository
 - **Size**: ~2 million rows
